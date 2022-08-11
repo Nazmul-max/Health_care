@@ -2,7 +2,7 @@
 /* header */
 #main_header {
     /* background-color: #d2efef; */
-    background: url(../img/banner/bg-1.jpg) no-repeat;
+    background: url(./img/banner/bg-1.jpg) no-repeat;
     background-size: cover;
     color: #f6f8f8;
 }
