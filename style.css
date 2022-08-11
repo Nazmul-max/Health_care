@@ -1,0 +1,182 @@
+
+/* header */
+#main_header {
+    /* background-color: #d2efef; */
+    background: url(../img/banner/bg-1.jpg) no-repeat;
+    background-size: cover;
+    color: #f6f8f8;
+}
+.banner_content h1 {
+    font-weight: 700;
+}
+.banner_content h1 span {
+    color: #4bc5b8;
+}
+
+.banner_content .banner-button {
+    border: none;
+    width: 150px;
+    float: left;
+    font-size: 16px;
+    color: #edf4f4;
+    background-color: #000;
+    text-align: center;
+    padding: 10px 0;
+    border-radius: 2px;
+    margin: 0 10px 0 0;
+}
+.banner_content .bnr-btn-ac {
+    background-color: #4bc5b8;
+    margin-bottom: 5px;
+}
+.carousel-prev-next .btn-cmn{
+    position: absolute;
+    top: auto;
+    bottom: 10px;
+    border: 2px solid #4bc5b8;
+    border-radius: 100%;
+    width: 40px;
+    height: 40px;
+    padding: 5px;
+}
+/* header end*/
+
+/* best_health_care */
+#best_health_care .banner-button {
+    border: none;
+    width: 150px;
+    float: left;
+    font-size: 16px;
+    color: #f6f8f8;
+    background-color: #000;
+    text-align: center;
+    padding: 10px 0;
+    border-radius: 2px;
+    margin: 0 10px 0 0;
+}
+#best_health_care .bnr-btn-ac {
+    background-color: #4bc5b8;
+    margin-bottom: 5px;
+}
+/* best_health_care end */
+
+/* Knowlwdge_of_center */
+#Knowledge_of_center .container .row{
+    width: 100%;
+    float: left;
+    padding: 150px 50px;
+    background-color: #4bc5b8;
+}
+/* Knowlwdge_of_center end */
+
+
+/* why_choose_24hr_home_care */
+#why_choose_24hr_home_care{
+   
+}
+#why_choose_24hr_home_care .row{
+    padding: 50px;
+}
+#why_choose_24hr_home_care .row .card{
+    padding:100px 50px;
+    color:#f6f8f8 ;
+    background-color: #000;
+    border-radius: 20px;
+    text-align: center;
+}
+#why_choose_24hr_home_care .row .card:hover{
+    background-color: #4bc5b8;
+    color: #000;
+    transition: 0.3s;
+}
+.banner-button{
+    padding: 10px 45px;
+    border: none;
+    
+}
+.banner-button:hover{
+    background-color: #000;
+    color: #d6e0e3;
+    transition: 0.3s;
+}
+/* why_choose_24hr_home_care end */
+
+/* what we do */
+#what_we_do{
+    padding: 50px 0;
+    background-color:  #d6e0e3;;
+}
+#what_we_do .row .col-md-3,.col-md-9{
+    padding: 20px 0;
+}
+#what_we_do .row .col-md-3 img{
+    width: 80%;
+}
+#what_we_do .row .col-md-6 .form_box{
+    background-color:  #e4e9e9;
+    padding: 20px;
+}
+#what_we_do .row .col-md-6 .form_box h2{
+    text-align: center;
+    padding: 20px;
+}
+#what_we_do .row .col-md-6 .form_box input{
+    padding: 10px;
+}
+/* what we do end */
+
+/* what people say */
+#what_people_say{
+    padding-bottom: 50px;
+}
+#what_people_say .main_title{
+    padding: 30px 0;
+}
+#what_people_say .row img{
+    width: 80%;
+    border-radius: 10px;
+}
+#what_people_say .row h1{
+    padding-bottom: 50px;
+}
+/* what people say end*/
+
+/* Footer start */
+#footer{
+    background-color: #000;
+    color: #d6e0e3;
+    padding-top: 70px;
+}
+#footer .main_footer{
+    padding-bottom: 50px;
+}
+#footer .main_footer .row .col-md-3 img{
+    width: 30%;
+}
+#footer .main_footer .row input{
+    padding: 10px;
+    background-color: rgb(66, 46, 46);
+    color: #e4e9e9;
+    border: none;
+}
+#footer .main_footer .row .Newsletter{
+    padding-bottom: 15px;
+}
+.banner-button2{
+    background-color: #19e9d9;
+    padding: 8px 35px;
+}
+.banner-button2:hover{
+    background-color: rgb(50, 45, 45);
+    color: #d6e0e3;
+    transition: 0.3s;
+}
+#footer .main_footer .row .col-md-3 .row img{
+    width: 100%;
+}
+#footer .copy_right{
+    border-top: 1px solid #19e9d9;
+    text-align: center;
+}
+
+/* Footer end */
